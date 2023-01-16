@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="55px" height="55px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 3186 3186"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <font id="FontID0" horiz-adv-x="667" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Arial">
+		<font-face-src>
+			<font-face-name name="Arial"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="R" horiz-adv-x="722" d="M79.0039 0l0 716.001 317.329 0c63.843,0 112.334,-6.49413 145.497,-19.3391 33.163,-12.8211 59.6648,-35.5028 79.5053,-67.9973 19.8405,-32.4945 29.6533,-68.4987 29.6533,-107.822 0,-50.8547 -16.4979,-93.6873 -49.3267,-128.522 -32.8288,-34.8104 -83.4925,-56.8236 -152.158,-66.326 25.1647,-11.9855 44.1696,-23.9948 57.1579,-35.6699 27.6717,-25.3319 53.8392,-57.1579 78.3354,-95.3347l123.842 -194.991 -118.327 0 -94.6901 149.007c-27.4807,43.1668 -50.3295,75.9956 -68.1645,98.8206 -18.0021,22.8488 -33.9987,38.6783 -48.1568,47.8464 -13.991,9.00105 -28.5073,15.328 -43.1668,18.981 -10.6723,2.17267 -28.173,3.34257 -52.6693,3.34257l-109.66 0 0 -317.997 -95.0005 0zm95.0005 400.01l203.323 0c43.334,0 76.9984,4.48859 101.327,13.4896 24.353,8.83392 42.8565,23.1592 55.3433,42.9997 12.6779,19.6734 19.0049,40.9942 19.0049,64.1773 0,33.8315 -12.1765,61.8136 -36.6727,83.6596 -24.4962,21.8222 -63.1745,32.6616 -115.987,32.6616l-226.339 0 0 -236.988z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Nunito", sans-serif;font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .str0 {stroke:#9B9542;stroke-width:9.90272}
+    .fil1 {fill:none}
+    .fil4 {fill:#FEFEFE}
+    .fil2 {fill:#9B9542}
+    .fil3 {fill:#FEFEFE;fill-opacity:0.400000}
+    .fil0 {fill:url(#id0)}
+    .fnt0 {font-weight:normal;font-size:156.811px;font-family:"Nunito", sans-serif}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="283.214" y1="686.163" x2="2902.39" y2="2499.44">
+   <stop offset="0" style="stop-opacity:1; stop-color:#F4D02E"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9B9542"/>
+  </linearGradient>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_1063070720">
+   <circle class="fil0" cx="1593" cy="1593" r="1593"/>
+   <circle class="fil1 str0" cx="2793" cy="223" r="136"/>
+   <text x="2731" y="279"  class="fil2 fnt0">R</text>
+   <path class="fil3" d="M2684 1119l0 2c0,45 -10,57 -8,100l-459 931c-76,143 -302,155 -388,-4l-3 -6c-36,-86 -34,-142 13,-234 50,-101 306,-700 444,-910 23,-36 49,-32 63,-43 11,-7 7,-5 20,-12 99,-55 238,-16 295,98 8,16 23,57 23,78z"/>
+   <path class="fil3" d="M1801 1119l0 2c0,45 -1,67 -21,111l-447 920c-75,143 -302,155 -387,-4l-3 -6c-37,-86 -34,-142 13,-234 59,-120 410,-889 507,-953 10,-7 7,-5 19,-12 100,-55 238,-16 295,98 8,16 24,57 24,78z"/>
+   <path class="fil4" d="M1363 1119l0 2c0,45 1,67 21,111l447 920c75,143 302,155 387,-4l3 -6c37,-86 34,-142 -13,-234 -59,-120 -410,-889 -507,-953 -10,-7 -7,-5 -20,-12 -99,-55 -237,-16 -294,98 -9,16 -24,57 -24,78z"/>
+   <path class="fil4" d="M483 1123l0 2c0,45 2,67 22,110l446 920c75,144 302,156 387,-3l3 -6c37,-86 35,-142 -13,-234 -59,-120 -410,-889 -507,-953 -10,-7 -6,-5 -19,-12 -100,-55 -238,-16 -295,97 -8,16 -24,58 -24,79z"/>
+   <circle class="fil4" cx="2457" cy="1149" r="231"/>
+  </g>
+ </g>
+</svg>
